@@ -67,7 +67,7 @@ int main()
         cout << "input the name of the employee: " ;
         cin >> employee;
         
-      // part for the child insurances
+      // part for the child's insurance
         cout << "input number of children of employee: " ;
         cin >> number_children;
         child_insurance= child_insurances(number_children);
