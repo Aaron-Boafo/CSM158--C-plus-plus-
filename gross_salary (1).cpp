@@ -102,7 +102,7 @@ int main()
       cout << "" << endl;
       cout << "Total Charges:  \t" <<charge<< endl;
       cout << "Net Pay: \t \t" <<net_pay<< endl;
-      cout << "Gross Pay:        \t" << gross_salary<<endl;
+      cout << "Gross Pay:        \t" << "Gh¢ "<<gross_salary<<endl;
       
     }
 }
